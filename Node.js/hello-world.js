@@ -1,6 +1,6 @@
 /*!
  *
- * Execution:    node hello-world-node.js
+ * Execution:    node hello-world.js
  *
  */
 

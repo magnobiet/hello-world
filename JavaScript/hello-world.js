@@ -1,6 +1,6 @@
 /*!
  *
- * Execution:    Open hello-world.html in your browser
+ * Execution:    Open ../HTML/hello-world.html in your browser
  *
  */
 
