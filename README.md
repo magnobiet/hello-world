@@ -25,7 +25,7 @@ g++ hello-world.cpp -o hello-world
 
 ## CSS ##
 
-Open [hello-world.html](./HTML/hello-world.html) in your browser
+Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
 
 ## D ##
 
@@ -36,7 +36,7 @@ dmd hello-world.d
 
 ## HTML ##
 
-Open [hello-world.html](./HTML/hello-world.html) in your browser
+Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
 
 ## Java ##
 
@@ -47,7 +47,7 @@ java HelloWorld
 
 ## JavaScript ##
 
-Open [hello-world.html](./HTML/hello-world.html) in your browser
+Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
 
 ## Node.js ##
 
