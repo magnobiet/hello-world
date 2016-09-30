@@ -34,6 +34,13 @@ dmd hello-world.d
 ./hello-world
 ```
 
+## Go ##
+
+```bash
+go install hello-world
+$GOPATH/bin/hello-world
+```
+
 ## HTML ##
 
 Open [hello-world.html](./HTML/hello-world.html) in your browser
