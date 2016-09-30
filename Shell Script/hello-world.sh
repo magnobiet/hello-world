@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# Execution:    ./hello-world
+# A Hello World! program in Shell Script.
 #
 
 echo 'Hello World!'

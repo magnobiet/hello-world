@@ -1,10 +1,11 @@
 /*!
- *
- * Execution:    Open ../HTML/hello-world.html in your browser
- *
+ * A Hello World! page.
  */
 
 .hello-world {
 	font-family: Arial, Helvetica, sans-serif;
 	background: #f1f1f1;
+	text-align: center;
+	margin: 1em;
+	padding: 2em;
 }

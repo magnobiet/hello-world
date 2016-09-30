@@ -1,14 +1,11 @@
 /*!
- *
- * Compilation:  g++ hello-world.cpp -o hello-world
- * Execution:    ./hello-world
- *
+ * A Hello World! program in C++.
  */
 
 #include <iostream>
 
 main() {
 
-	std::cout << "Hello World!\n";
+  std::cout << "Hello World!\n";
 
 }

@@ -1,14 +1,7 @@
 #!/usr/bin/python
 
 """
-"
-" Execution:    python hello-world.py
-"
+" A Hello World! program in Python.
 """
 
-import sys
-
-if len(sys.argv) > 1:
-    print 'Hello World ' + str(sys.argv[1]) + '!'
-else:
-    print 'Hello World!'
+print 'Hello World!'

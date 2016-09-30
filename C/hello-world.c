@@ -1,14 +1,11 @@
 /*!
- *
- * Compilation:  gcc -o hello-world hello-world.c
- * Execution:    ./hello-world
- *
+ * A Hello World! program in C.
  */
 
 #include<stdio.h>
 
 main() {
 
-	printf("Hello World!\n");
+  printf("Hello World!\n");
 
 }

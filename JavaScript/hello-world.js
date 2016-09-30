@@ -1,7 +1,5 @@
 /*!
- *
- * Execution:    Open ../HTML/hello-world.html in your browser
- *
+ * A Hello World! page.
  */
 
 window.onload = function() {

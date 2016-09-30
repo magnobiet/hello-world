@@ -1,9 +1,7 @@
 #!/usr/bin/ruby
 
 =begin
-=
-= Execution:    ruby hello-world.rb
-=
+= A Hello World! program in Python.
 =end
 
 puts "Hello World!"

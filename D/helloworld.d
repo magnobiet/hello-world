@@ -1,14 +1,11 @@
 /*!
- *
- * Compilation:  dmd hello-world.d
- * Execution:    ./hello-world
- *
+ * A Hello World! program in D.
  */
 
 import std.stdio;
 
 void main() {
 
-	writeln("Hello world!");
+  writeln("Hello world!");
 
 }
