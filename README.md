@@ -75,6 +75,11 @@ http://localhost:8080/hello-world.php
 python hello-world.py
 ```
 
+## R ##
+```bash
+Rscript hello-world.r
+```
+
 ## Ruby ##
 
 ```bash
