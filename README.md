@@ -105,6 +105,12 @@ Rscript hello-world.r
 ruby hello-world.rb
 ```
 
+## Scala ##
+
+```bash
+scalac hello-world.scala
+```
+
 ## Shell Script ##
 
 ```bash
