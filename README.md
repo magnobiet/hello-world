@@ -75,6 +75,12 @@ Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https
 node hello-world.js
 ```
 
+## Perl ##
+
+```bash
+perl progname.pl
+```
+
 ## PHP ##
 
 ```bash
