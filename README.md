@@ -23,6 +23,13 @@ g++ hello-world.cpp -o hello-world
 ./hello-world
 ```
 
+## COBOL ##
+
+```bash
+cobc hello.cob
+./hello
+```
+
 ## CSS ##
 
 Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
