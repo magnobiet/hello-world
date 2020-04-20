@@ -78,7 +78,7 @@ node hello-world.js
 ## Perl ##
 
 ```bash
-perl progname.pl
+perl hello-world.pl
 ```
 
 ## PHP ##
