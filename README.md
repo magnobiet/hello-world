@@ -30,6 +30,12 @@ cobc hello.cob
 ./hello
 ```
 
+## Crystal ##
+
+```bash
+crystal run hello_world.cr
+```
+
 ## CSS ##
 
 Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
