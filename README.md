@@ -26,13 +26,15 @@ g++ hello-world.cpp -o hello-world
 ## COBOL ##
 
 ```bash
-cobc hello.cob
-./hello
+# apt-get install -y open-cobol
+cobc -x -free hello-world.cob
+./hello-world
 ```
 
 ## Crystal ##
 
 ```bash
+# https://crystal-lang.org/install/
 crystal run hello_world.cr
 ```
 
@@ -78,6 +80,7 @@ node hello-world.js
 ## Perl ##
 
 ```bash
+# apt-get install -y perl
 perl hello-world.pl
 ```
 
@@ -108,7 +111,9 @@ ruby hello-world.rb
 ## Scala ##
 
 ```bash
+# apt-get install -y scala
 scalac hello-world.scala
+scala HelloWorld
 ```
 
 ## Shell Script ##
