@@ -23,6 +23,21 @@ g++ hello-world.cpp -o hello-world
 ./hello-world
 ```
 
+## COBOL ##
+
+```bash
+# apt-get install -y open-cobol
+cobc -x -free hello-world.cob
+./hello-world
+```
+
+## Crystal ##
+
+```bash
+# https://crystal-lang.org/install/
+crystal run hello_world.cr
+```
+
 ## CSS ##
 
 Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https://git.io/vPLQA)
@@ -62,6 +77,13 @@ Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https
 node hello-world.js
 ```
 
+## Perl ##
+
+```bash
+# apt-get install -y perl
+perl hello-world.pl
+```
+
 ## PHP ##
 
 ```bash
@@ -84,6 +106,14 @@ Rscript hello-world.r
 
 ```bash
 ruby hello-world.rb
+```
+
+## Scala ##
+
+```bash
+# apt-get install -y scala
+scalac hello-world.scala
+scala HelloWorld
 ```
 
 ## Shell Script ##
