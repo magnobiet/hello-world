@@ -77,6 +77,14 @@ Open [hello-world.html](./HTML/hello-world.html) in your browser. [:link:](https
 node hello-world.js
 ```
 
+## Pascal ##
+
+```bash
+# apt-get install -y fp-compiler
+pc HelloWorld.p
+./HelloWorld
+```
+
 ## Perl ##
 
 ```bash
